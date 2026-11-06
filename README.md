@@ -1,29 +1,33 @@
-<!-- ===================== PREMIUM ANIMATED HEADER ===================== -->
+
+<!-- PREMIUM GITHUB HEADER -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:090A1A,25:351B75,55:5533CC,80:087CA5,100:00D9FF&text=NIDA%20ALI&fontSize=90&fontColor=FFFFFF&fontAlignY=42&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20PYTHON%20%7C%20AUTOMATION&descSize=17&descAlignY=62&animation=twinkling&stroke=00D9FF&strokeWidth=2" width="100%" alt="Nida Ali - AI Engineer"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Python+Developer;Building+Intelligent+AI+Agents;Multi-Agent+Systems+%7C+LLM+Integration;Turning+Complex+Problems+Into+Smart+Solutions" alt="Animated introduction"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090B1A,35:24105A,70:174A91,100:00C6E8&height=230&section=header&text=NIDA%20ALI&fontSize=85&fontColor=FFFFFF&fontAlignY=40&fontWeight=800&desc=AI%20ENGINEER%20%7C%20PYTHON%20DEVELOPER&descSize=19&descColor=C9E9FF&descAlignY=62&animation=fadeIn" alt="Nida Ali"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/nida-ali-1b6659447">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+AI+Solutions;Designing+Autonomous+AI+Agents;LLMs+%7C+Multi-Agent+Systems+%7C+Automation;Turning+Ideas+Into+Intelligent+Products" alt="Professional tagline"/>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/nida-ali-1b6659447">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:nidaali.contact@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/AI%20Engineering-Expertise-7047EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Python-Development-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20Automation-Innovation-00BCD4?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20ENGINEERING-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/GENERATIVE%20AI-0891B2?style=flat-square"/>
 
 </div>
 
 ---
+
 
 ## 👩‍💻 About Me
 
